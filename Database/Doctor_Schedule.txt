@@ -1,0 +1,5 @@
+101|Nguyen Van Nam|2015|Cardiology,Surgery|Monday,Wednesday|08:00|16:00
+102|Tran Thi Lan|2007|Neurology,Award,Top 1 sever Doctor Asian|Monday,Tuesday,Thursday,Sunday,Wednesday,Friday|07:00|17:00
+103|Le Van Cuong|2006|Pediatric Surgery|Monday|08:30|15:30
+104|Nguyen Thi Dao|2005|Top1 Doctor Asian,Best studient |Monday,Tuesday,Thursday|07:00|17:30
+105|Doan Kim Tai|2022|Top1 Doctor Asian,Best Studient of BKDN|Monday,Tuesday|07:30|17:30

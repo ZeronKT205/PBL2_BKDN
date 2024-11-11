@@ -1,0 +1,6 @@
+1009|Le Ngoc Lam Na|19/03/2005|Female|123-DUT|0423421343|Lamna1903|Lamna1903
+1015|Tran Quang Hao|31/10/2005|Female|123123/DUT|0341231541|Quanghao|quanghao31
+1006|Nguyen Thi Kim Ngan|31/03/2005|Male|Le Thuy/Quang Binh|0941241122|kimngan31|kimngan31
+1014|Nguyen Thi Kim Quynh|25/07/2005|Male|37/Nguyen Van Linh|0981234112|Kimquynh31|Kimquynh31
+1016|Vo Thi Ngoc Linh|25/06/2005|Male|Le Thuy/Quang Binh|0982414531|ngoclinh|nglinh25
+1017|le ngoc lam na|16/03/2005|Male|nha|0868865|lamna	|123456

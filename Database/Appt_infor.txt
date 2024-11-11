@@ -1,0 +1,19 @@
+10|1009|103|206|04/11/2024|14:00|Le Van Cuong|Le Ngoc Lam Na|Pediatrics|Schedule
+11|1009|101|212|04/11/2024|13:30|Nguyen Van Nam|Le Ngoc Lam Na|Cardiology|Schedule
+12|1015|102|209|12/11/2024|14:00|Tran Thi Lan|Nguyen Quang hao|Neurology|Finished
+14|1015|105|209|12/11/2024|15:30|Doan Kim Tai|Nguyen Quang hao|Neurology|Schedule
+15|1009|105|209|12/11/2024|11:00|Doan Kim Tai|Le Ngoc Lam Na|Neurology|Schedule
+16|1009|102|209|12/11/2024|10:30|Tran Thi Lan|Le Ngoc Lam Na|Neurology|Finished
+18|1009|103|206|11/11/2024|13:30|Le Van Cuong|Le Ngoc Lam Na|Pediatrics|Schedule
+20|1017|105|209|11/11/2024|11:30|Doan Kim Tai|le ngoc lam na|Neurology|Schedule
+21|1017|102|209|11/11/2024|14:30|Tran Thi Lan|le ngoc lam na|Neurology|Schedule
+23|1017|105|209|16/12/2024|11:00|Doan Kim Tai|le ngoc lam na|Neurology|Schedule
+24|1017|102|209|12/12/2024|16:00|Tran Thi Lan|le ngoc lam na|Neurology|Finished
+25|1017|103|206|16/12/2024|13:00|Le Van Cuong|le ngoc lam na|Pediatrics|Schedule
+26|1017|105|209|16/12/2024|08:00|Doan Kim Tai|le ngoc lam na|Neurology|Schedule
+27|1017|102|209|11/11/2024|16:00|Tran Thi Lan|le ngoc lam na|Neurology|Schedule
+28|1017|104|204|13/12/2024|ERORR!|Nguyen Thi Dao|le ngoc lam na|Dermatology|Schedule
+29|1017|103|206|16/12/2024|13:30|Le Van Cuong|le ngoc lam na|Pediatrics|Schedule
+30|1017|105|209|11/11/2024|15:00|Doan Kim Tai|le ngoc lam na|Neurology|Schedule
+31|1009|105|209|11/11/2024|17:30|Doan Kim Tai|Le Ngoc Lam Na|Neurology|Schedule
+32|1009|102|211|12/11/2024|10:30|Tran Thi Lan|Le Ngoc Lam Na|Neurology|Schedule

@@ -1,0 +1,6 @@
+101|Nguyen Van Nam|1975/08/12|Male|123 Main St|555-1234|drnam|password101|Cardiology
+102|Tran Thi Lan|1980/03/22|Female|456 Oak St|555-5678|drlan|password103|Neurology
+103|Le Van Cuong|1975/11/11|Male|789 EFG Street|0909090903|levancuong|password103|Pediatrics
+104|Nguyen Thi Dao|31/10/2005|female|123-DUT|012312252|hoangthidao|password104|Dermatology
+105|Doan Kim Tai|31/10/2005|Male|1234-DUT|0123125425|kimtai|kimtai3110|Neurology
+106|Le Quynh Trang|19/03/2006|Female|123/DUT|0585678574|quynhtrang|trang31|Neurology

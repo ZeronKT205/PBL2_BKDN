@@ -1,0 +1,12 @@
+201|Examination|Booked
+202|Surgery|Available
+203|Surgery|Available
+204|Dermatology|Available
+205|Dermatology|Available
+206|Pediatrics|Available
+207|Pediatrics|Available
+208|Dermatology|Available
+209|Neurology|Available
+210|NeurologyAvailable
+211|Neurology|Available
+212|Cardiology|Available
